@@ -9,7 +9,7 @@ This is a one-page portfolio built with html+CSS, formatted primarily with flexb
 
 The project is still in development, but what currently exists in this repository is a close to final form that can be updated and built upon later. It also contains several placeholders of projects that will be completed and updated to the site in the next few months.
 
-![image of main application section](./images/application-screenshot.jpg)
+![image of main application section](./images/application-screenshot.png)
 
 ## Installation and Use
 
@@ -17,14 +17,14 @@ In order to use this or work on this project on your own, fork the project to yo
 
 ## Bugs
 
-###### Known Bugs
+#### Known Bugs
 
 The form doesn't actually submit anything because the functionality is not currently built into the page, but that will be udpated soon so that it can be used buy companies to send requests to the page owner.
 
-![image of form](./images/form-screenshot.jpg)
+![image of form](./images/form-screenshot.png)
 
 
-###### Bug Fixes
+#### Bug Fixes
 
 If you find other bugs, please contact me so that I can implement fixes right away!
 
